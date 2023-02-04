@@ -2,7 +2,7 @@ import React from 'react'
 import "./layout.css"
 
 function layout({children }) {
-  return (
+    return (
         <div className='layout'>
             <div className='layout__container'>
                 { children}
@@ -12,4 +12,3 @@ function layout({children }) {
 }
 
 export default layout
- 
