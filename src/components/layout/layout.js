@@ -1,12 +1,15 @@
 import React from 'react'
 import "./layout.css"
 
-function layout() {
+function layout({children }) {
   return (
-        <div>
-        
+        <div className='layout'>
+            <div className='layout__container'>
+                { children}
+            </div>
         </div>
     )
 }
 
 export default layout
+ 
