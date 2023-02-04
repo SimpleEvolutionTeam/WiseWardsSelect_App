@@ -8,7 +8,6 @@ function App() {
     <div className="app">
       <Layout>
         <First />
-        <Second />
       </Layout>
     </div>
   );

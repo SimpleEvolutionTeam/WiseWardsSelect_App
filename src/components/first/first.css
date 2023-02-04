@@ -1,2 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=DotGothic16&display=swap");
+
 .first {
+  width: 90%;
+  height: 100vh;
+  margin: 0 auto;
+  text-align: center;
+  background-color: white;
+  font-family: "DotGothic16", sans-serif;
+  overflow: hidden;
+}
+.first_pageTitle {
+  display: block;
+  width: 50%;
+  height: 20%;
+  margin: 10% auto;
+  font-size: 7rem;
+}
+.first__page__text1 {
+  font-size: 1.5rem;
+}
+.first__page__text2 {
+  font-size: 1.5rem;
+}
+.first__page__text3 {
+  font-size: 1.5rem;
 }
