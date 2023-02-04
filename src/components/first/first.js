@@ -16,7 +16,8 @@ function first() {
                 今日も名言を見て乗り切りましょう
             </p>
             <div className='first__page__btn'>
-                <a href="#">今日の名言</a>
+                <a >今日の名言</a>
+                {/* <Link to="./second">今日の名言</Link> */}
             </div>
         </div>
     )

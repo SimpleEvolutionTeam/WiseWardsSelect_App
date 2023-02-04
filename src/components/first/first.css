@@ -5,7 +5,7 @@
   height: 100vh;
   margin: 0 auto;
   text-align: center;
-  background-color: white;
+  color: white;
   font-family: "DotGothic16", sans-serif;
   overflow: hidden;
 }
@@ -34,6 +34,7 @@
   font-size: 1.5rem;
 }
 .first__page__btn {
+  margin: 0 auto;
   width: 20%;
   height: 7%;
   padding-top: 2.4%;
