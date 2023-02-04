@@ -12,16 +12,40 @@
 .first_pageTitle {
   display: block;
   width: 50%;
-  height: 20%;
+  height: 17%;
   margin: 10% auto;
+  margin-bottom: 7%;
+
   font-size: 7rem;
 }
 .first__page__text1 {
+  display: block;
+  margin-bottom: 0.5%;
   font-size: 1.5rem;
 }
 .first__page__text2 {
+  display: block;
+  margin-bottom: 0.5%;
   font-size: 1.5rem;
 }
 .first__page__text3 {
+  display: block;
+  margin-bottom: 4%;
   font-size: 1.5rem;
+}
+.first__page__btn {
+  width: 20%;
+  height: 7%;
+  padding-top: 2.4%;
+  align-items: center;
+  border: 1px solid white;
+  cursor: pointer;
+  background-color: black;
+}
+.first__page__btn:hover {
+  background-color: #696969;
+}
+.first__page__btn > a {
+  color: white;
+  text-decoration: none;
 }

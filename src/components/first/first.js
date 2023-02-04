@@ -15,7 +15,7 @@ function first() {
             <p className='first__page__text3'>
                 今日も名言を見て乗り切りましょう
             </p>
-            <div>
+            <div className='first__page__btn'>
                 <a href="#">今日の名言</a>
             </div>
         </div>
